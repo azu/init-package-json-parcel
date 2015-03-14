@@ -18,7 +18,7 @@
   "bugs": {
     "url": "https://github.com/azu/init-package-json-parcel/issues"
   },
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "index.js",
   "bin": {
     "init-package-json": "./bin/cmd.js"
