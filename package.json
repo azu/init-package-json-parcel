@@ -21,7 +21,7 @@
   "version": "1.0.0",
   "main": "index.js",
   "bin": {
-    "init-package-json": "cmd.js"
+    "init-package-json": "./bin/cmd.js"
   },
   "dependencies": {
     "fs-extra": "^0.16.5",
