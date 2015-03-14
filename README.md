@@ -10,7 +10,7 @@ A command line tool which is wrapper of `npm init`.
 I have not published my development module to GitHub yet,
 but I want to create `package.json` which has `repository` field.
 
-Because `repository` url of `package.json` is `"https://github.com/<user-name>/<directory-name>.git"` in in most cases.
+Because `repository` url of `package.json` is `"https://github.com/<user-name>/<directory-name>.git"` in most cases.
 
 ## Installation
 
