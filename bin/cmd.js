@@ -1,3 +1,4 @@
+#!/usr/bin/env node
 // LICENSE : MIT
 "use strict";
 var init = require("../lib/init-package-json-parcel");
