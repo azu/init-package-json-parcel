@@ -5,6 +5,13 @@ A command line tool which is wrapper of `npm init`.
 - When has not git remote url, automatically create `repository.url`
     - `https://github.com/:git-user-name/:package-name`
 
+## Use case
+
+I have not published my development module to GitHub yet,
+but I want to create `package.json` which has `repository` field.
+
+Because `repository` url of `package.json` is `"https://github.com/<user-name>/<directory-name>.git"` in in most cases.
+
 ## Installation
 
 ```
