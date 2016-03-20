@@ -4,6 +4,7 @@ A command line tool which is wrapper of `npm init`.
 
 - When has not git remote url, automatically create `repository.url`
     - `https://github.com/:git-user-name/:package-name`
+- Add `files` as a default
 
 ## Use case
 
