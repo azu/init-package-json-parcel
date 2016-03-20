@@ -24,9 +24,9 @@
     "init-package-json": "./bin/cmd.js"
   },
   "dependencies": {
-    "fs-extra": "^0.16.5",
+    "fs-extra": "^0.26.7",
     "init-package-json": "^1.3.0",
-    "npm": "^2.7.1"
+    "npm": "^3.8.2"
   },
   "devDependencies": {},
   "scripts": {
